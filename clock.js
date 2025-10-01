@@ -118,4 +118,3 @@ function restartBot() {
 }
 
 client.login(TOKEN);
-client.login(TOKEN);
