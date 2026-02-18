@@ -1,6 +1,8 @@
 # Découvrez Clock, l'horloge pour Discord
 Clock est un bot pour discord qui envoie l'heur à chaque minute dans le serveur et le salon de votre choix.
 Version 2.0 du 29/12/2024
+(Oui, ça sert à rien)
+
 
 ### Pré-requis
 Un Bot Discord --> Vous pouvez le créer directement sur https://discord.com/developers/applications
